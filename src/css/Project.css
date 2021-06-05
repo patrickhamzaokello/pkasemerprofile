@@ -1,0 +1,99 @@
+.projectpage {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+  padding-bottom: 0;
+}
+
+
+
+.projectlisting {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project {
+  width: 600px;
+  margin-bottom: 60px;
+}
+
+.project > img {
+  width: 100%;
+}
+
+.pageintroduction {
+  margin: 0 auto;
+  width: 95%;
+  margin-bottom: 60px;
+}
+
+
+.projecthead {
+  max-width: 800px;
+  margin-top: 100px;
+}
+
+.projecthead > h1 {
+  font-size: 40px;
+  transform: scale(1);
+}
+
+p {
+  color: rgb(105, 105, 105);
+  width: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 184.69%;
+  letter-spacing: 0.03em;
+  margin: 30px 0px;
+}
+
+
+
+.description {
+  margin-top: 10px;
+  padding-right: 20px;
+  width: 100%;
+}
+
+.description > h1 {
+  width: 100%;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 129.69%;
+  letter-spacing: 0.03em;
+  font-size: 30px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  animation: 1s ease 0.2s 1 normal forwards running gztygP;
+}
+
+.project__button {
+  background-color: white !important;
+  border: 1px solid black !important;
+  color: black !important;
+  padding: 10px 20px !important;
+  border-radius: 0 !important;
+}
+
+.project__button:hover {
+  color: whitesmoke !important;
+  background-color: black !important;
+}
+
+.skill__list {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 0px 200px;
+}
+
+.skill__list > ul {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+
+
+
+

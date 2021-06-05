@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <text id="PK_SE." data-name="PK
+SE." transform="translate(-11 239)" font-size="334" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">PK</tspan><tspan x="0" y="252">SE.</tspan></text>
+  </g>
+</svg>

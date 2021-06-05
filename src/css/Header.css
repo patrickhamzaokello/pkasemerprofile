@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 30px 20px;
+    justify-content: space-between;
+}
+
+li {
+    text-decoration-style: none;
+}
+
+
+.menu > span {
+    padding-left: 20px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 700px;
+}
+
+
+
+.social > a {
+    margin-right: 10px;
+}
+
+.socialmediaicon:hover {
+    color: purple !important;
+}
+
+.socialmediaicon {
+    color: rgb(143, 143, 143) !important;
+}
